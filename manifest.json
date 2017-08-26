@@ -27,6 +27,6 @@
 
   "permissions": [
     "tabs",
-    "webNavigation",
+    "webNavigation"
   ]
 }
