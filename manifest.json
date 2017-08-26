@@ -5,6 +5,11 @@
   "version": "0.1.0",
   "description": "Foxus, a tool for focus",
 
+  "icons": {
+    "16": "Fox16.png",
+    "128": "Fox128.png"
+  },
+
   "background": {
   	"scripts": ["eventPage.js"]
   },
