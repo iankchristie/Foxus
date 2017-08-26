@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "Foxus",
+  "version": "0.1.0",
+  "description": "Foxus, a tool for focus",
+
+  "background": {
+  	"scripts": ["eventPage.js"]
+  },
+ 
+  "content_scripts": [
+  	{
+    	"js": ["youtube.js"],
+    	"matches": ["https://www.youtube.com/*"]
+  	},
+  	{
+    	"js": ["facebook.js"],
+    	"matches": ["https://www.facebook.com/*"]
+  	}
+  ],
+
+  "permissions": [
+    "tabs",
+    "webNavigation",
+  ]
+}
