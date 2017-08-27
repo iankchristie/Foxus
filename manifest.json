@@ -6,21 +6,21 @@
   "description": "Foxus, a tool for focus",
 
   "icons": {
-    "16": "Fox16.png",
-    "128": "Fox128.png"
+    "16": "images/Fox16.png",
+    "128": "images/Fox128.png"
   },
 
   "background": {
-  	"scripts": ["eventPage.js"]
+  	"scripts": ["javascript/eventPage.js"]
   },
  
   "content_scripts": [
   	{
-    	"js": ["youtube.js"],
+    	"js": ["javascript/youtube.js"],
     	"matches": ["https://www.youtube.com/*"]
   	},
   	{
-    	"js": ["facebook.js"],
+    	"js": ["javascript/facebook.js"],
     	"matches": ["https://www.facebook.com/*"]
   	}
   ],
