@@ -24,4 +24,5 @@ The Facebook newsfeed is great at sucking my time. It's too easy to slightly scr
 
 Whenever I try to go to my newsfeed the browser will simply redirect to my profile. Problem Solved!
 
+###### Licensing
 Icons made by Freepik from www.flaticon.com is licensed by CC 3.0 BY
