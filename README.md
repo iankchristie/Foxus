@@ -22,7 +22,7 @@ I realized that I largely get distracted by thumbnails of YouTube videos. So I t
 ### Facebook
 The Facebook newsfeed is great at sucking my time. It's too easy to slightly scroll down to see the next article again, and again, and again. So fuck it. I'm not going back.
 
-Whenever I try to go to my newsfeed the browser will simply redirect to my profile. Problem Solved!
+This extension disables the "Home" button. Furthermore, whenever I try to go to my newsfeed the browser will simply redirect to my profile. Problem Solved!
 
 ###### Licensing
 Icons made by Freepik from www.flaticon.com is licensed by CC 3.0 BY
